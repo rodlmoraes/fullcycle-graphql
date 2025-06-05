@@ -157,3 +157,9 @@ models:
     model:
       - github.com/99designs/gqlgen/graphql.Int
       - github.com/99designs/gqlgen/graphql.Int64
+  Category:
+    model:
+     - graphql/graph/model.Category
+  Course:
+    model:
+     - graphql/graph/model.Course
